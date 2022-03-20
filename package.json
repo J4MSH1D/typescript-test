@@ -1,0 +1,20 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J4MSH1D/typescript-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J4MSH1D/typescript-test/issues"
+  },
+  "homepage": "https://github.com/J4MSH1D/typescript-test#readme"
+}
